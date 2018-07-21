@@ -1,9 +1,6 @@
 [submodule "sw/ext/libopencm3"]
 	path = sw/ext/libopencm3
 	url = https://github.com/libopencm3/libopencm3.git
-[submodule "sw/ext/luftboot"]
-	path = sw/ext/luftboot
-	url = https://github.com/paparazzi/luftboot.git
 [submodule "sw/ext/fatfs"]
 	path = sw/ext/fatfs
 	url = https://github.com/enacuavlab/fatfs.git
@@ -42,3 +39,6 @@
 	path = sw/ext/tudelft_gazebo_models
 	url = https://github.com/tudelft/gazebo_models.git
 	shallow = true
+[submodule "sw/ext/luftboot"]
+	path = sw/ext/luftboot
+	url = https://github.com/osirisinferi/luftboot
